@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "394786307165",
+    "firebase_url": "https://my-smart-fridge.firebaseio.com",
+    "project_id": "my-smart-fridge",
+    "storage_bucket": "my-smart-fridge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394786307165:android:baaf2d101a43d2fc",
+        "android_client_info": {
+          "package_name": "edu.scu.smartfridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394786307165-ke6pii34415r6r95l7t6sosdk6qbkjef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJIOyR7ipO-1Ilpt_NrgKreV3aYANszY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
